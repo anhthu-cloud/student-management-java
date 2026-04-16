@@ -27,6 +27,5 @@ javac Main.java
 java Main
 
 ---
-
-💾 Data Persistence
+## 💾 Data Persistence
 Data is stored in a file (data.txt)
