@@ -26,6 +26,8 @@ A simple Java console application to manage student information.
 javac Main.java
 java Main
 
-💾 Data Persistence
+## 💾 Data Persistence
+
+```bash
 Data is stored in a file (data.txt)
 Data will be saved automatically after each operation (Add, Update, Delete)
