@@ -25,7 +25,3 @@ A simple Java console application to manage student information.
 ```bash
 javac Main.java
 java Main
-
----
-## 💾 Data Persistence
-Data is stored in a file (data.txt)
