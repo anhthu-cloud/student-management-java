@@ -25,7 +25,7 @@ A simple Java console application to manage student information.
 ```bash
 javac Main.java
 java Main
-
+```
 ## 💾 Data Persistence
 
 ```bash
